@@ -1,0 +1,8 @@
+C:\PRO2022\Mutanti\obj\Debug\Mutanti.csproj.AssemblyReference.cache
+C:\PRO2022\Mutanti\obj\Debug\Mutanti.csproj.SuggestedBindingRedirects.cache
+C:\PRO2022\Mutanti\obj\Debug\Mutanti.csproj.CoreCompileInputs.cache
+C:\PRO2022\Mutanti\bin\Debug\Mutanti.exe.config
+C:\PRO2022\Mutanti\bin\Debug\Mutanti.exe
+C:\PRO2022\Mutanti\bin\Debug\Mutanti.pdb
+C:\PRO2022\Mutanti\obj\Debug\Mutanti.exe
+C:\PRO2022\Mutanti\obj\Debug\Mutanti.pdb
